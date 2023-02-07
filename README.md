@@ -1,2 +1,2 @@
 # algoritmo
- Curso de Algoritmo do Curoas em Vídep
+ Curso de Algoritmo do Curso em Vídeo
